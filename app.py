@@ -28,7 +28,7 @@ def get_recommendations(title, cosine_sim=cosine_sim):
 
 # Fetch movie poster from TMDB API with error handling and retry logic
 def fetch_poster(movie_id, retries=3, delay=1):
-    api_key = '4c1520622edd734c21f68a0e28a235c1'  # Replace with your actual TMDB API key
+    api_key = 'your api key'  # Replace with your actual TMDB API key
     
     if not api_key or api_key == 'YOUR_API_KEY_HERE':
         return "https://via.placeholder.com/500x750?text=No+API+Key"
