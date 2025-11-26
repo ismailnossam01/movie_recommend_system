@@ -2,6 +2,8 @@
 
 A content-based movie recommendation system built with Python and Streamlit that suggests similar movies based on genres, keywords, cast, and crew information.
 
+![Movie Recommendation System](image.png)
+
 ## Features
 
 - **Content-Based Filtering**: Recommends movies based on similarities in genres, keywords, top 3 cast members, and directors
