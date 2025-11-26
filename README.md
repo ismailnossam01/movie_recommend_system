@@ -45,7 +45,7 @@ pip install pandas numpy scikit-learn streamlit requests
 4. **Get TMDB API Key**
    - Sign up at [TMDB](https://www.themoviedb.org/)
    - Get your API key from account settings
-   - Replace `'4c1520622edd734c21f68a0e28a235c1'` in `app.py` with your API key
+   - Replace `'your api key'` in `app.py` with your API key
 
 ## Usage
 
