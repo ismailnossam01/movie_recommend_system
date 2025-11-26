@@ -12,7 +12,7 @@ A content-based movie recommendation system built with Python and Streamlit that
 
 ## Technologies Used
 
-- **Python 3.x**
+- **Python 3.12**
 - **Pandas** - Data manipulation
 - **NumPy** - Numerical operations
 - **Scikit-learn** - TF-IDF vectorization and cosine similarity
