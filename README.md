@@ -30,7 +30,7 @@ The system uses the TMDB 5000 Movie Dataset, which includes:
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/ismailnossam01/movie_recommend_system
 cd movie-recommendation-system
 ```
 
