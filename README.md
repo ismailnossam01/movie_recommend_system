@@ -102,7 +102,7 @@ The app will open in your browser at `http://localhost:8501`
 ```
 movie-recommendation-system/
 │
-├── preprocessing.py          # Data processing and model creation
+├── Movie_Recommendation_System.ipynb          # Data processing and model creation
 ├── app.py                    # Streamlit web application
 ├── movie_data.pkl           # Generated: Processed data and similarity matrix
 ├── tmdb_5000_credits.csv    # Dataset: Credits information
